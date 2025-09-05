@@ -1,1 +1,3 @@
 This repository includes an excel list of videos that were found publicly available on social media platforms (YouTube, TikTok and Instagram), a second excel file with the dissimilarity scores and a R script with the code for statistics used in the study.
+
+Please contact us at birdsingalong@gmail.com to request more information.
